@@ -149,6 +149,6 @@ To every analyst, student, and data enthusiast reading this — keep building, k
 
 ⭐ *If you found this project helpful or inspiring, consider giving it a star!* ⭐
 
-**Made with 💜 and a lot of pivot tables by RENSEE GAJIPARA**
+**Made with 💜**
 
 </div>
