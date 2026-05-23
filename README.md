@@ -16,7 +16,8 @@
 
 ## 🖼️ Dashboard Preview
 
-![Customer Transaction Analysis Dashboard](Dashboard.png)
+<img width="1543" height="647" alt="Dashboard" src="https://github.com/user-attachments/assets/58fe48db-4893-48bd-94e6-a55bfbcacb51" />
+
 
 ---
 
